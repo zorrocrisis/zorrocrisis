@@ -18,6 +18,8 @@ My name is Miguel Belbute (aka, zorrocris) and here is some info about me:
 [1.1]: https://static-00.iconduck.com/assets.00/itch-io-icon-256x256-0aig5hor.png
 [1.2]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
 
 [1]: https://zorrocrisis.itch.io/
 [2]: https://www.linkedin.com/in/miguelbelbute/
