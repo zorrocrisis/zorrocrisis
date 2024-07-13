@@ -14,7 +14,7 @@ My name is Miguel Belbute (aka, zorrocris) and here is some info about me:
 
 [![alt text][1.1]][1]
 
-[1.1]: https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png
+[1.1]: https://static-00.iconduck.com/assets.00/itch-io-icon-256x256-0aig5hor.png
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 
 
