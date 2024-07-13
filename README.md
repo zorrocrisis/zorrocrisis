@@ -7,6 +7,5 @@ My name is Miguel Belbute (aka, zorrocris) and here is some info about me:
 - 🤔 Currently working on my Master's thesis
 - ⚡"To be great, be whole" - FP
 
-[![zorrocrisis' GitHub stats](https://github-readme-stats.vercel.app/api?username=zorrocrisis)](https://github.com/zorrocrisis/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zorrocrisis)](https://github.com/zorrocrisis/github-readme-stats)
 
