@@ -10,27 +10,12 @@ My name is Miguel Belbute (aka, zorrocris) and here is some info about me:
 ## Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal,cs,cpp,py,matlab)](https://skillicons.dev)
 
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
+## Social Media
 
 [![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
-
-
-<!-- icons with padding -->
 
 [1.1]: https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png
-
-<!-- icons without padding -->
-
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-
 
 
 [1]: https://zorrocrisis.itch.io/
