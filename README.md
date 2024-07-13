@@ -13,12 +13,14 @@ My name is Miguel Belbute (aka, zorrocris) and here is some info about me:
 ## Social Media
 
 [![alt text][1.1]][1]
+[![alt text][1.2]][2]
 
 [1.1]: https://static-00.iconduck.com/assets.00/itch-io-icon-256x256-0aig5hor.png
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png
 
 
 [1]: https://zorrocrisis.itch.io/
+[2]: https://www.linkedin.com/in/miguelbelbute/
 
 
 
