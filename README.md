@@ -6,7 +6,6 @@ My name is Miguel Belbute (aka, zorrocris) and here is some info about me:
 - 🎮 Master's specialization in 2 areas: Video Game Development and Artificial Intelligence
 - 🤔 Currently working on my Master's thesis
 - ⚡"To be great, be whole" - FP
-
   
-##
+## Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal,cs,cpp,py,matlab)](https://skillicons.dev)
